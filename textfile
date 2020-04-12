@@ -1,5 +1,5 @@
 a=10
-	for a in i():
+	for I in A():
 		a+
 print (a)
 
